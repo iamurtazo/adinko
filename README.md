@@ -1,2 +1,3 @@
-# jvn-careers-website
-A careers website
+adinko website
+
+q&a platform for foreigners in korea
